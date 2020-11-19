@@ -1,0 +1,258 @@
+@media only screen and (min-width: 1000px) {
+
+*{
+ margin: 0;
+ padding: 0;
+ font-family: Century Gothic;
+  }
+
+
+
+header{   
+
+ background-size: cover;
+ height: 15vh;   
+
+     
+}
+
+ul{
+  float: right;
+  list-style-type: none;
+  margin-top: 25px;  
+    
+}
+
+ul li{
+ display: inline-block;
+    
+}
+
+ul li a{
+ text-decoration: none;
+ color: #fff;
+ padding: 5px 20px;
+ border: 1px solid #fff;
+ transition: 0.6s ease;   
+}
+
+ul li a:hover{
+ background-color: #fff;
+ color: #000;   
+    
+}
+ul li.active1 a{
+    background-color: #fff;
+ color: #000;   
+}
+
+ul li.active2 a{
+    background-color: #fff;
+ color: #000; 
+}
+
+ul li.active3 a{
+     background-color: #fff;
+ color: #000; 
+}
+
+ul li.active4 a{
+     background-color: #fff;
+ color: #000; 
+}
+
+ul li.active5 a{
+     background-color: #fff;
+ color: #000; 
+}
+
+ul li.active6 a{
+     background-color: #fff;
+ color: #000; 
+}
+
+.logo img{
+ float: left;
+ width: 150px;
+ height: auto;   
+}
+
+.main{
+ max-width: 1200px;
+ margin: 10px;
+ padding: 25px;   
+}
+
+.surftitle{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    
+}
+
+.surftitle h1{
+ color: #fff;
+ font-size: 50px;
+ border: 1px solid #fff;
+ padding: 125px 80px;   
+    
+}
+
+body{
+ background-image: url(../backgrounds/1.jpg);   
+}
+
+.surfbuttons{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    
+}
+
+.alloybutton{
+ border: 1px solid #fff;
+ padding: 10px 30px;
+ color: #fff;
+ text-decoration: none;
+ transition: 0.6s ease;   
+}
+
+.nodebutton{
+ border: 1px solid #fff;
+ padding: 10px 30px;
+ color: #fff;
+ text-decoration: none;
+ transition: 0.6s ease;   
+}
+
+.alloybutton:hover{
+ background-color: #fff;
+ color: #000;   
+}
+
+.nodebutton:hover{
+ background-color: #fff;
+ color: #000;   
+}
+
+.supporttitle{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    
+}
+
+.supporttitle h1{
+ color: #fff;
+ font-size: 50px;   
+    
+}
+
+.supportbuttons{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    
+}
+
+
+.emailbutton{
+ border: 1px solid #fff;
+ padding: 10px 30px;
+ color: #fff;
+ text-decoration: none;
+ transition: 0.6s ease;   
+}
+
+.emailbutton:hover{  
+ background-color: #fff;
+ color: #000;   
+}
+
+.discordbutton{
+ border: 1px solid #fff;
+ padding: 10px 30px;
+ color: #fff;
+ text-decoration: none;
+ transition: 0.6s ease;   
+}
+
+.discordbutton:hover{
+ background-color: #fff;
+ color: #000;   
+}
+
+.gamestitle{
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    
+}
+
+.gamestitle h1{
+ color: #fff;
+ font-size: 50px;   
+    
+}
+
+.alloyinfo{
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    
+}
+
+.alloyinfo a{
+  color: #fff;
+  font-size: 15px;  
+}
+
+.nodeinfo{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    
+}
+
+.nodeinfo a{
+  color: #fff;
+  font-size: 15px; 
+}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

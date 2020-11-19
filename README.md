@@ -1,2 +1,2 @@
 # WFOfficial
-Official github of https://www.wfofficial.ga
+Welcome to the github of WFOfficial

@@ -7,7 +7,7 @@
 .youtube{
     position: absolute;
     top: 40%;
-    left: 40%;
+    left: 30%;
     transform: translate(-50%,-50%);
     }
  .youtube a{
@@ -21,7 +21,7 @@
  .learn2fly{
     position: absolute;
     top: 40%;
-    left: 50%;
+    left: 40%;
     transform: translate(-50%,-50%);
     }  
  .learn2fly a{
@@ -35,7 +35,7 @@
 .discordunblocked{
  position: absolute;
     top: 40%;
-    left: 62.5%;
+    left: 52.5%;
     transform: translate(-50%,-50%);   
 }
 .discordunblocked a{
@@ -45,3 +45,20 @@
  padding: 10px 30px;
  text-decoration: none;
 }
+
+.paperio{
+ position: absolute;
+    top: 40%;
+    left: 64.2%;
+    transform: translate(-50%,-50%);      
+}
+.paperio a{
+   color: #fff;
+ font-size: 15px;
+ border: 1px solid #fff;
+ padding: 10px 30px;
+ text-decoration: none;  
+}
+
+
+

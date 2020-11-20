@@ -10,7 +10,6 @@
     left: 40%;
     transform: translate(-50%,-50%);
     }
-    
  .youtube a{
  color: #fff;
  font-size: 15px;
@@ -24,10 +23,23 @@
     top: 40%;
     left: 50%;
     transform: translate(-50%,-50%);
-    }
-    
+    }  
  .learn2fly a{
  color: #fff;
+ font-size: 15px;
+ border: 1px solid #fff;
+ padding: 10px 30px;
+ text-decoration: none;
+}
+
+.discordunblocked{
+ position: absolute;
+    top: 40%;
+    left: 62.5%;
+    transform: translate(-50%,-50%);   
+}
+.discordunblocked a{
+    color: #fff;
  font-size: 15px;
  border: 1px solid #fff;
  padding: 10px 30px;

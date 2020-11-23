@@ -264,6 +264,17 @@ body{
     color: #fff;
   font-size: 50px; 
 }
+
+.proxywarning{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.proxywarning h3{
+    color: #fff;
+  font-size: 15px; 
+}
     
 
 

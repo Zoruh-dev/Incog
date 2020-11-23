@@ -29,3 +29,17 @@
  padding: 10px 30px;
  text-decoration: none;
 }
+
+.titaniumcredit{
+     position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-50%);   
+}
+
+.titaniumcredit h3{
+    color: #fff;
+ font-size: 20px;
+ padding: 10px 30px;
+ text-decoration: none;
+}

@@ -102,3 +102,15 @@
  text-decoration: none;  
 }
 
+.gameswarning {
+    position: absolute;
+    top: 32%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.gameswarning h3{
+    color: #fff;
+  font-size: 15px; 
+}
+

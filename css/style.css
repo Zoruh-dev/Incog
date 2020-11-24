@@ -275,6 +275,18 @@ body{
     color: #fff;
   font-size: 15px; 
 }
+
+.changelog{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.changelog a{
+    color: #fff;
+  font-size: 20px; 
+}
     
 
 

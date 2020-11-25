@@ -157,6 +157,20 @@
  padding: 10px 30px;
  text-decoration: none;  
 }
+
+.survivio{
+    position: absolute;
+    top: 60%;
+    left: 39%;
+    transform: translate(-50%,-50%);
+}
+
+.survivio a{
+    color: #fff;
+ font-size: 15px;
+ border: 1px solid #fff;
+ padding: 10px 30px;
+ text-decoration: none;  
 }
 
 

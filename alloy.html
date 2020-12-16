@@ -1,33 +1,36 @@
-
-<!DOCTYPE html>
+<DOCTYPE html>
 <html>
-<head>
-<title>Home | Schoology</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel="stylesheet" type="text/css" href="css/style.css">    
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Amatic+SC">
-<link rel="shortcut icon" type="image/png" href="images/sf.png" />
-<script async src="https://arc.io/widget.min.js#aWRLtYuY"></script>
-</head>
-    <header>
+    <head>
+        <title>Home | Schoology</title>
+        <meta name='viewport' content='width=device-width, initial-scale=1, shrink-to-fit=no'>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        <link rel="shortcut icon" href="backgrounds/favicon.ico" type="image/x-icon">
+        <link href="https://fonts.googleapis.com/css2?family=Langar&display=swap" rel="stylesheet">
+        
+        
+    </head>
+    <body>
+        <header>
             <div class="main">
                 <div class="logo">
                 <img src="logo.png" href="index.html">
                 </div>
                 <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li class="active3"><a href="surf_freely.html">Surf Freely</a></li>
+                    <li class="active1"><a href="index.html">Home</a></li>
+                    <li><a href="surf_freely.html">Surf Freely</a></li>
                     <li><a href="games.html">Games</a></li>
                     <li><a href="bookmarks.html">Bookmarklets</a></li>
                     <li><a href="credits.html">Credits</a></li>
                     <li><a href="support.html">Support</a></li>
                 </ul>
-                </header>
-<style>
+            </div>
+                    
+        </header>
+        
+        <style>
 body, html {height: 100%}
-body,h1,h2,h3,h4,h5,h6 {font-family: "Amatic SC", sans-serif}
+body,h1,h2,h3,h4,h5,h6 {font-family: 'Langar' , cursive}
 .menu {display: none}
 .bgimg {
   background-repeat: no-repeat;
@@ -49,22 +52,16 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Amatic SC", sans-serif}
     user-select: none;
 }
 </style>
-<body>
-<iframe id="frame" style="display:block; visibility: hidden;"></iframe>
-
-
-
-<header class="bgimg w3-display-container w3-grayscale-min" id="home">
-<div class="w3-display-middle w3-center">
-<span class="w3-text-white w3-hide-small" style="font-size:100px">ALLOY</span>
-<span class="w3-text-white w3-hide-large w3-hide-medium" style="font-size:60px"><b>ALLOY</span>
+       
+        <div class="w3-display-middle w3-center">
+<span class="w3-text-black w3-hide-small" style="font-size:100px">ALLOY</span>
+<span class="w3-text-black w3-hide-large w3-hide-medium" style="font-size:60px"><b>ALLOY</span>
 <br>
-<span class="w3-text-white w3-hide-small" style="font-size:35px">Type the link you'd like to surf freely:</span>
+<span class="w3-text-white w3-hide-small" style="font-size:35px">Type the link you'd like to unblock:</span>
 <div>
 <form>
-<input class="w3-xlarge" id="url" type="text" name="url" inputmode="url" autocomplete="off"></input>
-
-<button class="w3-xlarge" style="float: right;" id="classicalloy">go! [normal]</button>
+<input class="w3-xxlarge"  id="url" type="text" name="url" inputmode="url" autocomplete="off"></input>
+<button class="w3-xxlarge" style="float: right;" id="classicalloy">Go!</button>
 </form>
 <script src="assets/surf.js"></script>
 </div>
@@ -88,6 +85,7 @@ function openMenu(evt, menuName) {
 }
 <script>
 document.getElementById("myLink").click();
-</script>
+</script>    
+
 </body>
 </html>

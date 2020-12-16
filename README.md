@@ -6,7 +6,7 @@
 * [Copyright](#copyright)
 
 # About
-Incog is a proxy/gaming website where we want to help you bypass school restrictions and have fun in class. We offer multiple built in proxies to bypass blocked websites and we offer games for you to play with friends during class
+Incog is a proxy/gaming website where we want to help you bypass school restrictions and let have fun in class. We offer multiple built in proxies to bypass blocked websites and we offer games for you to play with friends during class
 
 <img src="assets/ss1.png">
 
@@ -19,7 +19,7 @@ In the future I would definitly want to get more games on the site. I would also
 
 
 # Deploying
-Making a copy of this site is really easy. Just click on the  buttong below and it will deploy your site automaticly
+Making a copy of this site is really easy. Just click on the  button below and it will deploy your site automaticly
 
 <stong>You may have to mess with the surf.js file to get the proxies to work</strong>
 
@@ -27,4 +27,4 @@ Making a copy of this site is really easy. Just click on the  buttong below and 
 
 
 # Copyright
-While some people don't allow any code stolen I am ok if you steal a little bit of code. <strong>HOWEVER</strong>, I am not ok if you take <strong>MY CODE</strong> and claiming it as yours.
+While some people don't allow any code stolen I am ok if you steal a little bit of code. <strong>HOWEVER</strong>, I am not ok if you take <strong>MY CODE</strong> and claim it as yours.

@@ -1,5 +1,10 @@
 <h1>Incog</h1>
 
+* [About](#about)
+* [Future](#future)
+* [Deploying](#deploying)
+* [Copyright](#copyright)
+
 # About
 Incog is a proxy/gaming website where we want to help you bypass school restrictions and have fun in class. We offer multiple built in proxies to bypass blocked websites and we offer games for you to play with friends during class
 
@@ -9,7 +14,7 @@ Incog is a proxy/gaming website where we want to help you bypass school restrict
 <img src="assets/ss2.png">
 
 
-# Plans For The Future
+# Future
 In the future I would definitly want to get more games on the site. I would also hope to be able to add more proxies to the site
 
 

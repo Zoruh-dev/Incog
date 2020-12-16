@@ -27,4 +27,4 @@ Making a copy of this site is really easy. Just click on the  button below and i
 
 
 # Copyright
-While some people don't allow any code stolen I am ok if you steal a little bit of code. <strong>HOWEVER</strong>, I am not ok if you take <strong>MY CODE</strong> and claim it as yours.
+While some people don't allow any code stolen I am ok if you steal a little bit of code. <strong>HOWEVER</strong>, I am not ok if you take <strong>MY CODE</strong> and claim it as yours. At least give me some form of credit. lol

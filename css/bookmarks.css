@@ -4,33 +4,3 @@
  font-family: Century Gothic;
   }
 
-.unblockwebsites{
-     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-}
-
-.unblockwebsites a{
-    color: #fff;
- font-size: 15px;
- border: 1px solid #fff;
- padding: 10px 30px;
- text-decoration: none;
-}
-
-.linuxvm{
-  position: absolute;
-    top: 60%;
-    left: 50%;
-    transform: translate(-50%,-50%);   
-}
-
-.linuxvm a{
-    color: #fff;
- font-size: 15px;
- border: 1px solid #fff;
- padding: 10px 30px;
- text-decoration: none;
-}
-

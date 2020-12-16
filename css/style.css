@@ -74,7 +74,7 @@ ul li.active6 a{
 .logo img{
  float: left;
  width: 150px;
- height: auto;   
+ height: 100px;   
 }
 
 .main{
@@ -231,7 +231,7 @@ body{
 .nodeinfo{
     position: absolute;
     top: 60%;
-    left: 45%;
+    left: 47.5%;
     transform: translate(-50%,-50%);
     
 }
@@ -244,7 +244,7 @@ body{
 .pminfo{
     position: absolute;
     top: 65%;
-    left: 48.5%;
+    left: 45%;
     transform: translate(-50%,-50%);
 }
 
